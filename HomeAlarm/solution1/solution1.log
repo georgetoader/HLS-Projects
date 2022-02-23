@@ -1,0 +1,520 @@
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100tcsg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 13.777 seconds; current allocated memory: 86.562 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100tcsg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 5.307 seconds; current allocated memory: 86.540 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100tcsg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 7.559 seconds; current allocated memory: 86.588 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100tcsg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 4.658 seconds; current allocated memory: 86.539 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100tcsg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 4.48 seconds; current allocated memory: 86.540 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 12.844 seconds; current allocated memory: 86.574 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] CSim failed with errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 6.743 seconds; current allocated memory: 86.555 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 2.98 seconds; current allocated memory: 86.615 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 6.118 seconds; current allocated memory: 86.599 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 0 seconds. CPU system time: 1 seconds. Elapsed time: 0.967 seconds; current allocated memory: 86.599 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 0 seconds. CPU system time: 1 seconds. Elapsed time: 1.099 seconds; current allocated memory: 86.599 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 1.243 seconds; current allocated memory: 86.599 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 6.034 seconds; current allocated memory: 86.599 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 6.04 seconds; current allocated memory: 86.599 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 6.385 seconds; current allocated memory: 86.550 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 10.503 seconds; current allocated memory: 86.519 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 4.831 seconds; current allocated memory: 86.519 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 6.977 seconds; current allocated memory: 86.519 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 4.342 seconds; current allocated memory: 86.520 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 7.139 seconds; current allocated memory: 86.519 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 2.944 seconds; current allocated memory: 86.584 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 6.898 seconds; current allocated memory: 86.520 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csynth_design 
+INFO: [HLS 200-111] Finished File checks and directory preparation: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.043 seconds; current allocated memory: 866.127 MB.
+INFO: [HLS 200-10] Analyzing design file 'HomeAlarm/solution1/home_alarm.cpp' ... 
+WARNING: [HLS 207-5527] unexpected pragma parameter 'mode': HomeAlarm/solution1/home_alarm.cpp:41:23
+WARNING: [HLS 207-5527] unexpected pragma parameter 'mode': HomeAlarm/solution1/home_alarm.cpp:42:23
+WARNING: [HLS 207-5527] unexpected pragma parameter 'mode': HomeAlarm/solution1/home_alarm.cpp:43:23
+WARNING: [HLS 207-5527] unexpected pragma parameter 'mode': HomeAlarm/solution1/home_alarm.cpp:44:23
+INFO: [HLS 200-111] Finished Source Code Analysis and Preprocessing: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 9.995 seconds; current allocated memory: 87.891 MB.
+INFO: [HLS 200-777] Using interface defaults for 'Vivado' flow target.
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (HomeAlarm/solution1/home_alarm.h:5:2)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (HomeAlarm/solution1/home_alarm.h:14:2)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (HomeAlarm/solution1/home_alarm.h:13:2)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (HomeAlarm/solution1/home_alarm.h:12:2)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (HomeAlarm/solution1/home_alarm.h:11:2)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (HomeAlarm/solution1/home_alarm.h:10:2)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (HomeAlarm/solution1/home_alarm.h:9:2)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (HomeAlarm/solution1/home_alarm.h:8:2)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (HomeAlarm/solution1/home_alarm.h:7:2)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (HomeAlarm/solution1/home_alarm.h:6:2)
+INFO: [HLS 214-131] Inlining function 'ap_range_ref<16, false>::ap_range_ref(ap_int_base<16, false>*, int, int)' into 'ap_int_base<16, false>::range(int, int)' (E:/games/Xilinx/Vitis_HLS/2020.2/common/technology/autopilot\ap_int_base.h:899:12)
+INFO: [HLS 214-131] Inlining function 'ap_range_ref<16, false>::get() const' into 'ap_int_base<3, false>::ap_int_base<16, false>(ap_range_ref<16, false> const&)' (E:/games/Xilinx/Vitis_HLS/2020.2/common/technology/autopilot\ap_int_base.h:358:20)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<3, false>::ap_int_base<16, false>(ap_range_ref<16, false> const&)' into 'ap_uint<3>::ap_uint<16, false>(ap_range_ref<16, false> const&)' (E:/games/Xilinx/Vitis_HLS/2020.2/common/technology/autopilot\ap_int.h:237:92)
+INFO: [HLS 214-131] Inlining function 'ap_range_ref<16, false>::get() const' into 'ap_int_base<2, false>::ap_int_base<16, false>(ap_range_ref<16, false> const&)' (E:/games/Xilinx/Vitis_HLS/2020.2/common/technology/autopilot\ap_int_base.h:358:20)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<2, false>::ap_int_base<16, false>(ap_range_ref<16, false> const&)' into 'ap_uint<2>::ap_uint<16, false>(ap_range_ref<16, false> const&)' (E:/games/Xilinx/Vitis_HLS/2020.2/common/technology/autopilot\ap_int.h:237:92)
+INFO: [HLS 214-131] Inlining function 'ap_range_ref<16, false>::get() const' into 'ap_int_base<4, false>::ap_int_base<16, false>(ap_range_ref<16, false> const&)' (E:/games/Xilinx/Vitis_HLS/2020.2/common/technology/autopilot\ap_int_base.h:358:20)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<4, false>::ap_int_base<16, false>(ap_range_ref<16, false> const&)' into 'ap_uint<4>::ap_uint<16, false>(ap_range_ref<16, false> const&)' (E:/games/Xilinx/Vitis_HLS/2020.2/common/technology/autopilot\ap_int.h:237:92)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<32, true>::ap_int_base(int)' into 'bool operator==<4, false>(ap_int_base<4, false> const&, int)' (E:/games/Xilinx/Vitis_HLS/2020.2/common/technology/autopilot\ap_int_base.h:1616:1853)
+INFO: [HLS 214-131] Inlining function 'bool ap_int_base<4, false>::operator==<32, true>(ap_int_base<32, true> const&) const' into 'bool operator==<4, false>(ap_int_base<4, false> const&, int)' (E:/games/Xilinx/Vitis_HLS/2020.2/common/technology/autopilot\ap_int_base.h:1616:1850)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<32, true>::ap_int_base(int)' into 'bool operator!=<3, false>(ap_int_base<3, false> const&, int)' (E:/games/Xilinx/Vitis_HLS/2020.2/common/technology/autopilot\ap_int_base.h:1616:2233)
+INFO: [HLS 214-131] Inlining function 'bool ap_int_base<3, false>::operator!=<32, true>(ap_int_base<32, true> const&) const' into 'bool operator!=<3, false>(ap_int_base<3, false> const&, int)' (E:/games/Xilinx/Vitis_HLS/2020.2/common/technology/autopilot\ap_int_base.h:1616:2230)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<32, true>::ap_int_base(int)' into 'bool operator!=<2, false>(ap_int_base<2, false> const&, int)' (E:/games/Xilinx/Vitis_HLS/2020.2/common/technology/autopilot\ap_int_base.h:1616:2233)
+INFO: [HLS 214-131] Inlining function 'bool ap_int_base<2, false>::operator!=<32, true>(ap_int_base<32, true> const&) const' into 'bool operator!=<2, false>(ap_int_base<2, false> const&, int)' (E:/games/Xilinx/Vitis_HLS/2020.2/common/technology/autopilot\ap_int_base.h:1616:2230)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<3, false>::ap_bit_ref(ap_int_base<3, false>*, int)' into 'ap_int_base<3, false>::operator[](int)' (E:/games/Xilinx/Vitis_HLS/2020.2/common/technology/autopilot\ap_int_base.h:980:30)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<2, false>::ap_bit_ref(ap_int_base<2, false>*, int)' into 'ap_int_base<2, false>::operator[](int)' (E:/games/Xilinx/Vitis_HLS/2020.2/common/technology/autopilot\ap_int_base.h:980:30)
+INFO: [HLS 214-131] Inlining function 'ap_uint<4>::ap_uint(int)' into 'check_sensors(ap_uint<3>, ap_uint<2>, ap_uint<8>&, ap_uint<4>&)' (HomeAlarm/solution1/home_alarm.cpp:11:14)
+INFO: [HLS 214-131] Inlining function 'ap_uint<4>::ap_uint(int)' into 'check_sensors(ap_uint<3>, ap_uint<2>, ap_uint<8>&, ap_uint<4>&)' (HomeAlarm/solution1/home_alarm.cpp:31:16)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<2, false>::operator bool() const' into 'check_sensors(ap_uint<3>, ap_uint<2>, ap_uint<8>&, ap_uint<4>&)' (HomeAlarm/solution1/home_alarm.cpp:29:14)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<2, false>::operator[](int)' into 'check_sensors(ap_uint<3>, ap_uint<2>, ap_uint<8>&, ap_uint<4>&)' (HomeAlarm/solution1/home_alarm.cpp:29:14)
+INFO: [HLS 214-131] Inlining function 'ap_uint<4>::ap_uint(int)' into 'check_sensors(ap_uint<3>, ap_uint<2>, ap_uint<8>&, ap_uint<4>&)' (HomeAlarm/solution1/home_alarm.cpp:28:16)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<2, false>::operator bool() const' into 'check_sensors(ap_uint<3>, ap_uint<2>, ap_uint<8>&, ap_uint<4>&)' (HomeAlarm/solution1/home_alarm.cpp:26:7)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<2, false>::operator[](int)' into 'check_sensors(ap_uint<3>, ap_uint<2>, ap_uint<8>&, ap_uint<4>&)' (HomeAlarm/solution1/home_alarm.cpp:26:7)
+INFO: [HLS 214-131] Inlining function 'bool operator!=<2, false>(ap_int_base<2, false> const&, int)' into 'check_sensors(ap_uint<3>, ap_uint<2>, ap_uint<8>&, ap_uint<4>&)' (HomeAlarm/solution1/home_alarm.cpp:25:21)
+INFO: [HLS 214-131] Inlining function 'ap_uint<4>::ap_uint(int)' into 'check_sensors(ap_uint<3>, ap_uint<2>, ap_uint<8>&, ap_uint<4>&)' (HomeAlarm/solution1/home_alarm.cpp:22:16)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<3, false>::operator bool() const' into 'check_sensors(ap_uint<3>, ap_uint<2>, ap_uint<8>&, ap_uint<4>&)' (HomeAlarm/solution1/home_alarm.cpp:20:14)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<3, false>::operator[](int)' into 'check_sensors(ap_uint<3>, ap_uint<2>, ap_uint<8>&, ap_uint<4>&)' (HomeAlarm/solution1/home_alarm.cpp:20:14)
+INFO: [HLS 214-131] Inlining function 'ap_uint<4>::ap_uint(int)' into 'check_sensors(ap_uint<3>, ap_uint<2>, ap_uint<8>&, ap_uint<4>&)' (HomeAlarm/solution1/home_alarm.cpp:19:16)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<3, false>::operator bool() const' into 'check_sensors(ap_uint<3>, ap_uint<2>, ap_uint<8>&, ap_uint<4>&)' (HomeAlarm/solution1/home_alarm.cpp:17:14)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<3, false>::operator[](int)' into 'check_sensors(ap_uint<3>, ap_uint<2>, ap_uint<8>&, ap_uint<4>&)' (HomeAlarm/solution1/home_alarm.cpp:17:14)
+INFO: [HLS 214-131] Inlining function 'ap_uint<4>::ap_uint(int)' into 'check_sensors(ap_uint<3>, ap_uint<2>, ap_uint<8>&, ap_uint<4>&)' (HomeAlarm/solution1/home_alarm.cpp:16:16)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<3, false>::operator bool() const' into 'check_sensors(ap_uint<3>, ap_uint<2>, ap_uint<8>&, ap_uint<4>&)' (HomeAlarm/solution1/home_alarm.cpp:14:7)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<3, false>::operator[](int)' into 'check_sensors(ap_uint<3>, ap_uint<2>, ap_uint<8>&, ap_uint<4>&)' (HomeAlarm/solution1/home_alarm.cpp:14:7)
+INFO: [HLS 214-131] Inlining function 'bool operator!=<3, false>(ap_int_base<3, false> const&, int)' into 'check_sensors(ap_uint<3>, ap_uint<2>, ap_uint<8>&, ap_uint<4>&)' (HomeAlarm/solution1/home_alarm.cpp:13:21)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<16, false>::range(int, int)' into 'home_alarm(ap_uint<16>, ap_uint<8>&, ap_uint<4>&)' (HomeAlarm/solution1/home_alarm.cpp:46:39)
+INFO: [HLS 214-131] Inlining function 'ap_uint<3>::ap_uint<16, false>(ap_range_ref<16, false> const&)' into 'home_alarm(ap_uint<16>, ap_uint<8>&, ap_uint<4>&)' (HomeAlarm/solution1/home_alarm.cpp:46:30)
+INFO: [HLS 214-131] Inlining function 'bool operator!=<2, false>(ap_int_base<2, false> const&, int)' into 'home_alarm(ap_uint<16>, ap_uint<8>&, ap_uint<4>&)' (HomeAlarm/solution1/home_alarm.cpp:53:52)
+INFO: [HLS 214-131] Inlining function 'bool operator!=<3, false>(ap_int_base<3, false> const&, int)' into 'home_alarm(ap_uint<16>, ap_uint<8>&, ap_uint<4>&)' (HomeAlarm/solution1/home_alarm.cpp:53:23)
+INFO: [HLS 214-131] Inlining function 'ap_uint<4>::ap_uint(int)' into 'home_alarm(ap_uint<16>, ap_uint<8>&, ap_uint<4>&)' (HomeAlarm/solution1/home_alarm.cpp:52:15)
+INFO: [HLS 214-131] Inlining function 'bool operator==<4, false>(ap_int_base<4, false> const&, int)' into 'home_alarm(ap_uint<16>, ap_uint<8>&, ap_uint<4>&)' (HomeAlarm/solution1/home_alarm.cpp:50:18)
+INFO: [HLS 214-131] Inlining function 'ap_uint<4>::ap_uint<16, false>(ap_range_ref<16, false> const&)' into 'home_alarm(ap_uint<16>, ap_uint<8>&, ap_uint<4>&)' (HomeAlarm/solution1/home_alarm.cpp:48:27)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<16, false>::range(int, int)' into 'home_alarm(ap_uint<16>, ap_uint<8>&, ap_uint<4>&)' (HomeAlarm/solution1/home_alarm.cpp:48:36)
+INFO: [HLS 214-131] Inlining function 'ap_uint<2>::ap_uint<16, false>(ap_range_ref<16, false> const&)' into 'home_alarm(ap_uint<16>, ap_uint<8>&, ap_uint<4>&)' (HomeAlarm/solution1/home_alarm.cpp:47:30)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<16, false>::range(int, int)' into 'home_alarm(ap_uint<16>, ap_uint<8>&, ap_uint<4>&)' (HomeAlarm/solution1/home_alarm.cpp:47:39)
+INFO: [HLS 214-178] Inlining function 'check_sensors(ap_uint<3>, ap_uint<2>, ap_uint<8>&, ap_uint<4>&)' into 'home_alarm(ap_uint<16>, ap_uint<8>&, ap_uint<4>&)' (HomeAlarm/solution1/home_alarm.cpp:39:0)
+INFO: [HLS 200-111] Finished Compiling Optimization and Transform: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 7.412 seconds; current allocated memory: 88.988 MB.
+INFO: [HLS 200-111] Finished Checking Pragmas: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.019 seconds; current allocated memory: 88.989 MB.
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [HLS 200-111] Finished Standard Transforms: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.113 seconds; current allocated memory: 97.183 MB.
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.203 seconds; current allocated memory: 108.702 MB.
+INFO: [XFORM 203-401] Performing if-conversion on hyperblock in function 'home_alarm'... converting 10 basic blocks.
+INFO: [HLS 200-111] Finished Loop, function and other optimizations: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.33 seconds; current allocated memory: 141.270 MB.
+INFO: [HLS 200-111] Finished Architecture Synthesis: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.2 seconds; current allocated memory: 139.088 MB.
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'home_alarm' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'home_alarm' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.207 seconds; current allocated memory: 139.398 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.148 seconds; current allocated memory: 139.634 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'home_alarm' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-500] Setting interface mode on port 'home_alarm/switches' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'home_alarm/sg_data' to 'ap_vld'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'home_alarm/sg_enable' to 'ap_vld'.
+INFO: [RTGEN 206-500] Setting interface mode on function 'home_alarm' to 'ap_ctrl_hs'.
+INFO: [RTGEN 206-100] Finished creating RTL model for 'home_alarm'.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.235 seconds; current allocated memory: 140.057 MB.
+INFO: [HLS 200-111] Finished Generating all RTL models: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 2.352 seconds; current allocated memory: 146.876 MB.
+INFO: [VHDL 208-304] Generating VHDL RTL for home_alarm.
+INFO: [VLOG 209-307] Generating Verilog RTL for home_alarm.
+INFO: [HLS 200-789] **** Estimated Fmax: 191.33 MHz
+INFO: [HLS 200-111] Finished Command csynth_design CPU user time: 4 seconds. CPU system time: 0 seconds. Elapsed time: 21.418 seconds; current allocated memory: 146.978 MB.
+INFO: [HLS 200-112] Total CPU user time: 7 seconds. Total CPU system time: 2 seconds. Total elapsed time: 24.311 seconds; peak allocated memory: 866.127 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 1.39 seconds; current allocated memory: 86.504 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] CSim failed with errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 5.227 seconds; current allocated memory: 86.508 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 5.658 seconds; current allocated memory: 86.520 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] CSim failed with errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 5.016 seconds; current allocated memory: 86.508 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] CSim failed with errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 1.191 seconds; current allocated memory: 86.508 MB.

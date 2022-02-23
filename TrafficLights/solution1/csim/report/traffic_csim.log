@@ -1,0 +1,23 @@
+INFO: [SIM 2] *************** CSIM start ***************
+INFO: [SIM 4] CSIM will launch GCC as the compiler.
+   Compiling ../../traffic.cpp in debug mode
+   Generating csim.exe
+Data la 0 ew[ 1 ] si ns[ 0 ]
+Data la 1 ew[ 0 ] si ns[ 1 ]
+Data la 2 ew[ 0 ] si ns[ 1 ]
+Data la 3 ew[ 0 ] si ns[ 1 ]
+Data la 4 ew[ 1 ] si ns[ 0 ]
+Data la 5 ew[ 1 ] si ns[ 0 ]
+Data la 6 ew[ 1 ] si ns[ 0 ]
+Data la 7 ew[ 0 ] si ns[ 1 ]
+Data la 8 ew[ 1 ] si ns[ 0 ]
+Data la 9 ew[ 1 ] si ns[ 0 ]
+Data la 10 ew[ 1 ] si ns[ 0 ]
+Data la 11 ew[ 0 ] si ns[ 1 ]
+Data la 12 ew[ 1 ] si ns[ 0 ]
+Data la 13 ew[ 1 ] si ns[ 0 ]
+Data la 14 ew[ 1 ] si ns[ 0 ]
+Data la 15 ew[ 1 ] si ns[ 0 ]
+CORECT
+INFO: [SIM 1] CSim done with 0 errors.
+INFO: [SIM 3] *************** CSIM finish ***************

@@ -1,0 +1,421 @@
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100tcsg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1510] Running: csynth_design 
+INFO: [HLS 200-111] Finished File checks and directory preparation: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.03 seconds; current allocated memory: 866.046 MB.
+INFO: [HLS 200-10] Analyzing design file '../trafficLight_HLS-main/traffic_light.cpp' ... 
+WARNING: [HLS 207-5301] unused parameter 'u_sensor': ../trafficLight_HLS-main/traffic_light.cpp:10:8
+WARNING: [HLS 207-5301] unused parameter 'd_sensor': ../trafficLight_HLS-main/traffic_light.cpp:11:8
+WARNING: [HLS 207-5524] Ignore interface attribute or pragma which is not used in top function: ../trafficLight_HLS-main/traffic_light.cpp:83:9
+WARNING: [HLS 207-5524] Ignore interface attribute or pragma which is not used in top function: ../trafficLight_HLS-main/traffic_light.cpp:84:9
+WARNING: [HLS 207-5524] Ignore interface attribute or pragma which is not used in top function: ../trafficLight_HLS-main/traffic_light.cpp:85:9
+WARNING: [HLS 207-5524] Ignore interface attribute or pragma which is not used in top function: ../trafficLight_HLS-main/traffic_light.cpp:86:9
+WARNING: [HLS 207-5524] Ignore interface attribute or pragma which is not used in top function: ../trafficLight_HLS-main/traffic_light.cpp:88:9
+WARNING: [HLS 207-5524] Ignore interface attribute or pragma which is not used in top function: ../trafficLight_HLS-main/traffic_light.cpp:89:9
+INFO: [HLS 200-111] Finished Source Code Analysis and Preprocessing: CPU user time: 1 seconds. CPU system time: 1 seconds. Elapsed time: 2.592 seconds; current allocated memory: 87.315 MB.
+ERROR: [HLS 214-157] Top function not found: there is no function named 'traffic'
+INFO: [HLS 200-111] Finished Command csynth_design CPU user time: 1 seconds. CPU system time: 1 seconds. Elapsed time: 7.426 seconds; current allocated memory: 87.891 MB.
+INFO: [HLS 200-112] Total CPU user time: 3 seconds. Total CPU system time: 2 seconds. Total elapsed time: 10.001 seconds; peak allocated memory: 866.046 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100tcsg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csynth_design 
+INFO: [HLS 200-111] Finished File checks and directory preparation: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.031 seconds; current allocated memory: 866.047 MB.
+INFO: [HLS 200-10] Analyzing design file '../trafficLight_HLS-main/traffic_light.cpp' ... 
+WARNING: [HLS 207-5301] unused parameter 'u_sensor': ../trafficLight_HLS-main/traffic_light.cpp:10:8
+WARNING: [HLS 207-5301] unused parameter 'd_sensor': ../trafficLight_HLS-main/traffic_light.cpp:11:8
+WARNING: [HLS 207-5524] Ignore interface attribute or pragma which is not used in top function: ../trafficLight_HLS-main/traffic_light.cpp:83:9
+WARNING: [HLS 207-5524] Ignore interface attribute or pragma which is not used in top function: ../trafficLight_HLS-main/traffic_light.cpp:84:9
+WARNING: [HLS 207-5524] Ignore interface attribute or pragma which is not used in top function: ../trafficLight_HLS-main/traffic_light.cpp:85:9
+WARNING: [HLS 207-5524] Ignore interface attribute or pragma which is not used in top function: ../trafficLight_HLS-main/traffic_light.cpp:86:9
+WARNING: [HLS 207-5524] Ignore interface attribute or pragma which is not used in top function: ../trafficLight_HLS-main/traffic_light.cpp:88:9
+WARNING: [HLS 207-5524] Ignore interface attribute or pragma which is not used in top function: ../trafficLight_HLS-main/traffic_light.cpp:89:9
+INFO: [HLS 200-111] Finished Source Code Analysis and Preprocessing: CPU user time: 1 seconds. CPU system time: 1 seconds. Elapsed time: 0.859 seconds; current allocated memory: 87.325 MB.
+ERROR: [HLS 214-157] Top function not found: there is no function named 'traffic'
+INFO: [HLS 200-111] Finished Command csynth_design CPU user time: 1 seconds. CPU system time: 1 seconds. Elapsed time: 4.812 seconds; current allocated memory: 87.885 MB.
+INFO: [HLS 200-112] Total CPU user time: 3 seconds. Total CPU system time: 2 seconds. Total elapsed time: 6.95 seconds; peak allocated memory: 866.047 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100tcsg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csynth_design 
+INFO: [HLS 200-111] Finished File checks and directory preparation: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.033 seconds; current allocated memory: 866.031 MB.
+INFO: [HLS 200-10] Analyzing design file 'TrafficLights/solution1/traffic.cpp' ... 
+WARNING: [HLS 207-5301] unused parameter 'u_sensor': TrafficLights/solution1/traffic.cpp:9:8
+WARNING: [HLS 207-5301] unused parameter 'd_sensor': TrafficLights/solution1/traffic.cpp:10:8
+WARNING: [HLS 207-5527] unexpected pragma parameter 'mode': TrafficLights/solution1/traffic.cpp:83:23
+WARNING: [HLS 207-5527] unexpected pragma parameter 'mode': TrafficLights/solution1/traffic.cpp:84:23
+WARNING: [HLS 207-5527] unexpected pragma parameter 'mode': TrafficLights/solution1/traffic.cpp:85:23
+WARNING: [HLS 207-5527] unexpected pragma parameter 'mode': TrafficLights/solution1/traffic.cpp:86:23
+WARNING: [HLS 207-5527] unexpected pragma parameter 'mode': TrafficLights/solution1/traffic.cpp:87:23
+WARNING: [HLS 207-5527] unexpected pragma parameter 'mode': TrafficLights/solution1/traffic.cpp:88:23
+WARNING: [HLS 207-5527] unexpected pragma parameter 'mode': TrafficLights/solution1/traffic.cpp:89:23
+INFO: [HLS 200-111] Finished Source Code Analysis and Preprocessing: CPU user time: 1 seconds. CPU system time: 1 seconds. Elapsed time: 0.826 seconds; current allocated memory: 87.306 MB.
+ERROR: [HLS 214-157] Top function not found: there is no function named 'traffic'
+INFO: [HLS 200-111] Finished Command csynth_design CPU user time: 1 seconds. CPU system time: 1 seconds. Elapsed time: 5.222 seconds; current allocated memory: 87.913 MB.
+INFO: [HLS 200-112] Total CPU user time: 3 seconds. Total CPU system time: 2 seconds. Total elapsed time: 7.421 seconds; peak allocated memory: 866.031 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100tcsg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csynth_design 
+INFO: [HLS 200-111] Finished File checks and directory preparation: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.031 seconds; current allocated memory: 866.031 MB.
+INFO: [HLS 200-10] Analyzing design file 'TrafficLights/solution1/traffic.cpp' ... 
+WARNING: [HLS 207-5301] unused parameter 'u_sensor': TrafficLights/solution1/traffic.cpp:9:8
+WARNING: [HLS 207-5301] unused parameter 'd_sensor': TrafficLights/solution1/traffic.cpp:10:8
+WARNING: [HLS 207-5527] unexpected pragma parameter 'mode': TrafficLights/solution1/traffic.cpp:83:23
+WARNING: [HLS 207-5527] unexpected pragma parameter 'mode': TrafficLights/solution1/traffic.cpp:84:23
+WARNING: [HLS 207-5527] unexpected pragma parameter 'mode': TrafficLights/solution1/traffic.cpp:85:23
+WARNING: [HLS 207-5527] unexpected pragma parameter 'mode': TrafficLights/solution1/traffic.cpp:86:23
+WARNING: [HLS 207-5527] unexpected pragma parameter 'mode': TrafficLights/solution1/traffic.cpp:87:23
+WARNING: [HLS 207-5527] unexpected pragma parameter 'mode': TrafficLights/solution1/traffic.cpp:88:23
+WARNING: [HLS 207-5527] unexpected pragma parameter 'mode': TrafficLights/solution1/traffic.cpp:89:23
+INFO: [HLS 200-111] Finished Source Code Analysis and Preprocessing: CPU user time: 1 seconds. CPU system time: 1 seconds. Elapsed time: 1.072 seconds; current allocated memory: 87.306 MB.
+INFO: [HLS 200-777] Using interface defaults for 'Vivado' flow target.
+INFO: [HLS 214-178] Inlining function 'rule_1(bool, bool, bool, bool)' into 'traffic(bool, bool, bool, bool, bool*, bool*)' (TrafficLights/solution1/traffic.cpp:81:0)
+INFO: [HLS 214-178] Inlining function 'rule_2(bool, bool, bool, bool)' into 'traffic(bool, bool, bool, bool, bool*, bool*)' (TrafficLights/solution1/traffic.cpp:81:0)
+INFO: [HLS 214-178] Inlining function 'rule_3(bool, bool, bool, bool)' into 'traffic(bool, bool, bool, bool, bool*, bool*)' (TrafficLights/solution1/traffic.cpp:81:0)
+INFO: [HLS 214-178] Inlining function 'rule_4(bool, bool, bool, bool)' into 'traffic(bool, bool, bool, bool, bool*, bool*)' (TrafficLights/solution1/traffic.cpp:81:0)
+INFO: [HLS 214-178] Inlining function 'rule_5(bool, bool, bool, bool)' into 'traffic(bool, bool, bool, bool, bool*, bool*)' (TrafficLights/solution1/traffic.cpp:81:0)
+INFO: [HLS 200-111] Finished Compiling Optimization and Transform: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 4.475 seconds; current allocated memory: 88.433 MB.
+INFO: [HLS 200-111] Finished Checking Pragmas: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.017 seconds; current allocated memory: 88.434 MB.
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [HLS 200-111] Finished Standard Transforms: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.277 seconds; current allocated memory: 89.413 MB.
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.07 seconds; current allocated memory: 88.833 MB.
+INFO: [XFORM 203-401] Performing if-conversion on hyperblock to (TrafficLights/solution1/traffic.cpp:102:1) in function 'traffic'... converting 3 basic blocks.
+INFO: [HLS 200-111] Finished Loop, function and other optimizations: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.163 seconds; current allocated memory: 108.910 MB.
+INFO: [HLS 200-111] Finished Architecture Synthesis: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.132 seconds; current allocated memory: 100.608 MB.
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'traffic' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'traffic' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.198 seconds; current allocated memory: 100.851 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.144 seconds; current allocated memory: 101.001 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'traffic' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-500] Setting interface mode on port 'traffic/l_sensor' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'traffic/r_sensor' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'traffic/u_sensor' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'traffic/d_sensor' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'traffic/ns_light' to 'ap_vld'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'traffic/ew_light' to 'ap_vld'.
+INFO: [RTGEN 206-500] Setting interface mode on function 'traffic' to 'ap_ctrl_hs'.
+INFO: [RTGEN 206-100] Finished creating RTL model for 'traffic'.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.164 seconds; current allocated memory: 101.305 MB.
+INFO: [HLS 200-111] Finished Generating all RTL models: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 1.89 seconds; current allocated memory: 108.211 MB.
+INFO: [VHDL 208-304] Generating VHDL RTL for traffic.
+INFO: [VLOG 209-307] Generating Verilog RTL for traffic.
+INFO: [HLS 200-789] **** Estimated Fmax: 340.83 MHz
+INFO: [HLS 200-111] Finished Command csynth_design CPU user time: 3 seconds. CPU system time: 1 seconds. Elapsed time: 8.798 seconds; current allocated memory: 108.263 MB.
+INFO: [HLS 200-112] Total CPU user time: 5 seconds. Total CPU system time: 2 seconds. Total elapsed time: 10.935 seconds; peak allocated memory: 866.031 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100tcsg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 10.833 seconds; current allocated memory: 86.587 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100tcsg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 1.314 seconds; current allocated memory: 86.580 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100tcsg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 1 seconds. CPU system time: 1 seconds. Elapsed time: 1.195 seconds; current allocated memory: 86.580 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100tcsg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 1.168 seconds; current allocated memory: 86.599 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100tcsg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 1.124 seconds; current allocated memory: 86.570 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100tcsg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 1 seconds. CPU system time: 1 seconds. Elapsed time: 1.4 seconds; current allocated memory: 86.586 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100tcsg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 1 seconds. CPU system time: 1 seconds. Elapsed time: 4.466 seconds; current allocated memory: 86.528 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: set_directive_top -name traffic traffic 
+INFO: [HLS 200-1510] Running: csynth_design 
+INFO: [HLS 200-111] Finished File checks and directory preparation: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.048 seconds; current allocated memory: 866.113 MB.
+INFO: [HLS 200-10] Analyzing design file 'TrafficLights/solution1/traffic.cpp' ... 
+WARNING: [HLS 207-5301] unused parameter 'sus': TrafficLights/solution1/traffic.cpp:9:8
+WARNING: [HLS 207-5301] unused parameter 'jos': TrafficLights/solution1/traffic.cpp:10:8
+WARNING: [HLS 207-5527] unexpected pragma parameter 'mode': TrafficLights/solution1/traffic.cpp:83:23
+WARNING: [HLS 207-5527] unexpected pragma parameter 'mode': TrafficLights/solution1/traffic.cpp:84:23
+WARNING: [HLS 207-5527] unexpected pragma parameter 'mode': TrafficLights/solution1/traffic.cpp:85:23
+WARNING: [HLS 207-5527] unexpected pragma parameter 'mode': TrafficLights/solution1/traffic.cpp:86:23
+WARNING: [HLS 207-5527] unexpected pragma parameter 'mode': TrafficLights/solution1/traffic.cpp:87:23
+WARNING: [HLS 207-5527] unexpected pragma parameter 'mode': TrafficLights/solution1/traffic.cpp:88:23
+WARNING: [HLS 207-5527] unexpected pragma parameter 'mode': TrafficLights/solution1/traffic.cpp:89:23
+INFO: [HLS 200-111] Finished Source Code Analysis and Preprocessing: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 2.484 seconds; current allocated memory: 87.430 MB.
+INFO: [HLS 200-777] Using interface defaults for 'Vivado' flow target.
+INFO: [HLS 214-178] Inlining function 'rule_1(bool, bool, bool, bool)' into 'traffic(bool, bool, bool, bool, bool*, bool*)' (TrafficLights/solution1/traffic.cpp:81:0)
+INFO: [HLS 214-178] Inlining function 'rule_2(bool, bool, bool, bool)' into 'traffic(bool, bool, bool, bool, bool*, bool*)' (TrafficLights/solution1/traffic.cpp:81:0)
+INFO: [HLS 214-178] Inlining function 'rule_3(bool, bool, bool, bool)' into 'traffic(bool, bool, bool, bool, bool*, bool*)' (TrafficLights/solution1/traffic.cpp:81:0)
+INFO: [HLS 214-178] Inlining function 'rule_4(bool, bool, bool, bool)' into 'traffic(bool, bool, bool, bool, bool*, bool*)' (TrafficLights/solution1/traffic.cpp:81:0)
+INFO: [HLS 214-178] Inlining function 'rule_5(bool, bool, bool, bool)' into 'traffic(bool, bool, bool, bool, bool*, bool*)' (TrafficLights/solution1/traffic.cpp:81:0)
+INFO: [HLS 200-111] Finished Compiling Optimization and Transform: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 6.314 seconds; current allocated memory: 88.558 MB.
+INFO: [HLS 200-111] Finished Checking Pragmas: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.016 seconds; current allocated memory: 88.558 MB.
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [HLS 200-111] Finished Standard Transforms: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.06 seconds; current allocated memory: 89.537 MB.
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.067 seconds; current allocated memory: 88.957 MB.
+INFO: [XFORM 203-401] Performing if-conversion on hyperblock to (TrafficLights/solution1/traffic.cpp:99:1) in function 'traffic'... converting 3 basic blocks.
+INFO: [HLS 200-111] Finished Loop, function and other optimizations: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.204 seconds; current allocated memory: 109.002 MB.
+INFO: [HLS 200-111] Finished Architecture Synthesis: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.133 seconds; current allocated memory: 100.746 MB.
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'traffic' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'traffic' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.129 seconds; current allocated memory: 101.026 MB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.099 seconds; current allocated memory: 101.176 MB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'traffic' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-500] Setting interface mode on port 'traffic/stg' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'traffic/dr' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'traffic/sus' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'traffic/jos' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'traffic/ew' to 'ap_vld'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'traffic/ns' to 'ap_vld'.
+INFO: [RTGEN 206-500] Setting interface mode on function 'traffic' to 'ap_ctrl_hs'.
+INFO: [RTGEN 206-100] Finished creating RTL model for 'traffic'.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.156 seconds; current allocated memory: 101.442 MB.
+INFO: [HLS 200-111] Finished Generating all RTL models: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 2.029 seconds; current allocated memory: 108.285 MB.
+INFO: [VHDL 208-304] Generating VHDL RTL for traffic.
+INFO: [VLOG 209-307] Generating Verilog RTL for traffic.
+INFO: [HLS 200-789] **** Estimated Fmax: 340.83 MHz
+INFO: [HLS 200-111] Finished Command csynth_design CPU user time: 2 seconds. CPU system time: 0 seconds. Elapsed time: 11.915 seconds; current allocated memory: 108.397 MB.
+INFO: [HLS 200-112] Total CPU user time: 5 seconds. Total CPU system time: 2 seconds. Total elapsed time: 14.956 seconds; peak allocated memory: 866.113 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: set_directive_top -name traffic traffic 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 1 seconds. CPU system time: 1 seconds. Elapsed time: 10.193 seconds; current allocated memory: 86.592 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: set_directive_top -name traffic traffic 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] 'csim_design' failed: nonzero return value.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 1 seconds. CPU system time: 1 seconds. Elapsed time: 1.472 seconds; current allocated memory: 86.590 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: set_directive_top -name traffic traffic 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 1 seconds. CPU system time: 1 seconds. Elapsed time: 1.597 seconds; current allocated memory: 86.585 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: set_directive_top -name traffic traffic 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] 'csim_design' failed: nonzero return value.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 1 seconds. CPU system time: 1 seconds. Elapsed time: 1.323 seconds; current allocated memory: 86.590 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: set_directive_top -name traffic traffic 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 1.337 seconds; current allocated memory: 86.585 MB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: set_directive_top -name traffic traffic 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 1.543 seconds; current allocated memory: 86.590 MB.
